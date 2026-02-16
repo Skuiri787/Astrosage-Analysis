@@ -122,4 +122,11 @@ Calls generate significantly higher revenue than chats.
 - Excel Analysis Workbook  
 - Investment Strategy Presentation  
 - Task Solutions  
-- Consolidated Dashboard  
+- Consolidated Dashboard
+
+ ---
+
+## 📊 Dashboard Preview
+
+![Call Center Dashboard](AstroDashboard.png)
+
