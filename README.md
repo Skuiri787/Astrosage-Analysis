@@ -1,73 +1,125 @@
-📊 AstroSage Call Center Optimization (₹1 Crore Strategy)
-🔍 Project Objective
+# 📊 AstroSage Call Center Optimization Strategy  
+### ₹1 Crore Investment Allocation Case Study
 
-AstroSage received ₹1 Crore investment to optimize call center efficiency, improve customer satisfaction, and increase profitability.
+---
 
-This project analyzes historical call data to recommend optimal capital allocation using Excel-based business analytics.
+## 1️⃣ Project Objective
 
-📁 Dataset
+AstroSage received a ₹1 Crore investment to optimize its call center operations.
 
-28,027 records
+This project analyzes historical call data to:
+- Improve operational efficiency  
+- Increase customer satisfaction  
+- Reduce revenue leakage  
+- Recommend optimal capital allocation  
 
-35 attributes
+---
 
-131 agents
+## 2️⃣ Dataset Overview
 
-8,508 calls
+- **28,027** total records  
+- **35** attributes  
+- **131** active agents (gurus)  
+- **8,508** call records  
+- ₹2L+ monthly revenue  
 
-₹2L+ monthly revenue
+Data cleaning included:
+- Removal of non-informative columns  
+- Handling missing values  
+- Feature engineering (Month, Year, Weekday)  
+- Standardization of text fields  
 
-🛠 Tools Used
+---
 
-Excel Pivot Tables
+## 3️⃣ Tools & Techniques Used
 
-COUNTIFS(), AVERAGEIFS(), CORREL()
+- Microsoft Excel  
+- Pivot Tables  
+- `COUNTIFS()`  
+- `AVERAGEIFS()`  
+- `CORREL()`  
+- `XLOOKUP()`  
+- Scatter Charts  
+- Pie Charts  
+- Combo Charts  
+- KPI Dashboard  
 
-XLOOKUP()
+---
 
-Scatter, Pie & Combo Charts
+## 4️⃣ Key Findings
 
-KPI Dashboard
+### 🚨 4.1 Call Failure Rate = 45.3%
 
-📊 Key Insights
+Nearly half of call attempts resulted in:
+- Busy  
+- No Answer  
+- Failed  
+- Incomplete  
 
-🚨 45.3% call attempts failed (Busy/No Answer/Incomplete)
+→ Major revenue leakage detected.
 
-📉 Avg calls per agent/day = 1.91 (workload imbalance)
+---
 
-⭐ Avg rating ≈ 2.93 (quality inconsistency)
+### 📉 4.2 Agent Utilization
 
-⏰ Peak hours: 5 AM – 5 PM
+- Average calls per agent per day: **1.91**
+- Workload imbalance observed  
+- Overloaded agents showed rating decline  
 
-💰 Calls generate 3× more revenue than chats
+---
 
-💰 Investment Allocation Strategy
-Area	Allocation	Reason
-Technology Upgrade	45%	Reduce failure rate
-Targeted Training	25%	Improve ratings
-Smart Hiring	20%	Peak-hour balance
-Performance Dashboard	10%	KPI tracking
-📈 Expected Impact
+### ⭐ 4.3 Customer Satisfaction
 
-Higher call completion rate
+- Average rating ≈ **2.93**
+- Weak correlation between call duration and rating (-0.041)
+- Quality matters more than call length  
 
-Improved customer satisfaction
+---
 
-Better workload balance
+### ⏰ 4.4 Peak Load Hours
 
-Increased revenue without acquiring new users
+- Highest traffic: **5 AM – 5 PM**
+- Absolute peak: **6–7 AM**
+- Staffing misalignment detected  
 
-📌 What This Project Demonstrates
+---
 
-Operational analytics
+### 💰 4.5 Revenue Breakdown
 
-Revenue leakage detection
+| Consultation Type | Net Revenue |
+|------------------|-------------|
+| Call             | ₹168,442    |
+| Chat             | ₹45,494     |
+| Complimentary    | ₹0          |
+| Public Live Call | ₹50         |
 
-KPI design
+Calls generate significantly higher revenue than chats.
 
-Data-driven capital allocation
+---
 
-Business decision modeling using Excel
+## 5️⃣ ₹1 Crore Investment Allocation Plan
 
-Author: Shubham Prasad Kuiri
-Data Analytics | Business Strategy
+| Investment Area         | Allocation | Strategic Focus |
+|-------------------------|------------|----------------|
+| Technology Upgrade      | 45%        | Reduce failure rate |
+| Targeted Agent Training | 25%        | Improve ratings |
+| Smart Hiring            | 20%        | Peak-hour balance |
+| KPI Dashboard           | 10%        | Real-time monitoring |
+
+---
+
+## 6️⃣ Expected Business Impact
+
+- Increased call completion rate  
+- Higher customer satisfaction  
+- Balanced agent workload  
+- Improved revenue without acquiring new users  
+
+---
+
+## 📁 Repository Contents
+
+- Excel Analysis Workbook  
+- Investment Strategy Presentation  
+- Task Solutions  
+- Consolidated Dashboard  
